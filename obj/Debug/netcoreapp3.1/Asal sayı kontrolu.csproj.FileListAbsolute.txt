@@ -1,0 +1,14 @@
+C:\Users\EMRE\source\repos\Asal sayı kontrolu\Asal sayı kontrolu\obj\Debug\netcoreapp3.1\Asal sayı kontrolu.csproj.AssemblyReference.cache
+C:\Users\EMRE\source\repos\Asal sayı kontrolu\Asal sayı kontrolu\obj\Debug\netcoreapp3.1\Asal sayı kontrolu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMRE\source\repos\Asal sayı kontrolu\Asal sayı kontrolu\obj\Debug\netcoreapp3.1\Asal sayı kontrolu.AssemblyInfoInputs.cache
+C:\Users\EMRE\source\repos\Asal sayı kontrolu\Asal sayı kontrolu\obj\Debug\netcoreapp3.1\Asal sayı kontrolu.AssemblyInfo.cs
+C:\Users\EMRE\source\repos\Asal sayı kontrolu\Asal sayı kontrolu\obj\Debug\netcoreapp3.1\Asal sayı kontrolu.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\source\repos\Asal sayı kontrolu\Asal sayı kontrolu\bin\Debug\netcoreapp3.1\Asal sayı kontrolu.exe
+C:\Users\EMRE\source\repos\Asal sayı kontrolu\Asal sayı kontrolu\bin\Debug\netcoreapp3.1\Asal sayı kontrolu.deps.json
+C:\Users\EMRE\source\repos\Asal sayı kontrolu\Asal sayı kontrolu\bin\Debug\netcoreapp3.1\Asal sayı kontrolu.runtimeconfig.json
+C:\Users\EMRE\source\repos\Asal sayı kontrolu\Asal sayı kontrolu\bin\Debug\netcoreapp3.1\Asal sayı kontrolu.runtimeconfig.dev.json
+C:\Users\EMRE\source\repos\Asal sayı kontrolu\Asal sayı kontrolu\bin\Debug\netcoreapp3.1\Asal sayı kontrolu.dll
+C:\Users\EMRE\source\repos\Asal sayı kontrolu\Asal sayı kontrolu\bin\Debug\netcoreapp3.1\Asal sayı kontrolu.pdb
+C:\Users\EMRE\source\repos\Asal sayı kontrolu\Asal sayı kontrolu\obj\Debug\netcoreapp3.1\Asal sayı kontrolu.dll
+C:\Users\EMRE\source\repos\Asal sayı kontrolu\Asal sayı kontrolu\obj\Debug\netcoreapp3.1\Asal sayı kontrolu.pdb
+C:\Users\EMRE\source\repos\Asal sayı kontrolu\Asal sayı kontrolu\obj\Debug\netcoreapp3.1\Asal sayı kontrolu.genruntimeconfig.cache
